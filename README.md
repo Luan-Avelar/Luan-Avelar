@@ -1,6 +1,6 @@
 ### Olá! eu sou Luan Avelar👋
 
-- 🔭 Hoje trabalho com Front-end
+- 🔭 Estou estudando desenvolvimento Web
 - 🌱 Estou estudando Python
 - 📫 Contact-me: luansantoskj@gmail.com
 
